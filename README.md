@@ -15,4 +15,4 @@
 
 
 The project you observed is a simple and prototype of artificial neural networks in which the volume of calculations can be seen.
-To know and work with large and complex networks such as ??? Knowing and how these networks work can be helpful.
+To know and work with large and complex networks such as #YOLO , #FasterRCNN  Knowing and how these networks work can be helpful.
