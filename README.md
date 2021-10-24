@@ -1,6 +1,6 @@
 I perform simple classification operations with very simple neural networks such as Heb and Perceptron.
 
-Networks can be configured with the help of the program's graphical interface. 
+<b>Networks can be configured with the help of the program's graphical interface. </b>
 
 It also has the ability to generate data for categorization.
 In addition, grid weight correction calculations can be viewed.
